@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all"
+            android:icon="@drawable/ic_all"
+            android:title="All Notices" />
+        <item
+            android:id="@+id/exam"
+            android:icon="@drawable/ic_exam"
+            android:title="Exam Notices" />
+        <item
+            android:id="@+id/event"
+            android:icon="@drawable/ic_event"
+            android:title="Event Notices" />
+        <item
+            android:id="@+id/general"
+            android:icon="@drawable/ic_event"
+            android:title="General Notices" />
+        <item
+            android:id="@+id/other"
+            android:icon="@drawable/ic_event"
+            android:title="Other Notices" />
+    </group>
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/unread"
+                android:icon="@drawable/ic_unread"
+                android:title="Unread Notices" />
+            <item
+                android:id="@+id/marked"
+                android:icon="@drawable/ic_marked"
+                android:title="Marked Notices" />
+            <item
+                android:id="@+id/deleted"
+                android:icon="@drawable/ic_deleted"
+                android:title="Deleted Notices" />
+        </menu>
+    </item>
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "891678474663",
+    "firebase_url": "https://enoticeboard-14d0d.firebaseio.com",
+    "project_id": "enoticeboard-14d0d",
+    "storage_bucket": "enoticeboard-14d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891678474663:android:dd7b1eba25c96d56",
+        "android_client_info": {
+          "package_name": "com.example.thedarkknight.enoticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891678474663-pb5p03sheou54m8lro0jrhjh8v4ttmbv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "891678474663-pb5p03sheou54m8lro0jrhjh8v4ttmbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASfu12vPpUr2MRvhZ8y-w6XHPdqulI_Vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
